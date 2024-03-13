@@ -17,3 +17,14 @@ Here are some ideas to get you started:
 
 - Python
 - Django
+
+## Interests
+
+- CPython
+- Vim
+- Piano
+
+## Favorite Books
+
+- [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/829182.Computer_Systems)
+- [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design)
