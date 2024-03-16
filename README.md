@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skillsets
+## Most Active Knowhow
 
-- Python
-- Django
+- Python 3.10, 3.11, 3.12
+- Django 4.2
 
-## Interests
+## Recent Interests
 
 - CPython
 - Vim
@@ -28,3 +28,13 @@ Here are some ideas to get you started:
 
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/829182.Computer_Systems)
 - [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design)
+- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+
+## Experienced Tech Stacks
+
+- Languages: Python3, C++, SQL, Ruby
+- Framework/libraries: Django, GeoDjango, DRF, FastAPI, Pytest, Celery, React.js, React.js, Vue
+- Data: Postgres, PostGIS, Kafka, Debezium
+- DevOps: Git, Docker, CI/CD (Jenkins, CircleCI, GitHub Actions)
+- Cloud Services: AWS, GCP
+- System Design: REST API, Distributed Architecture, OAuth2 & OIDC
