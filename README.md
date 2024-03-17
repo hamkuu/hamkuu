@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - Python 3.10, 3.11, 3.12
 - Django 4.2
+- Domain-driven Design
 
 ## Recent Focuses
 
@@ -29,8 +30,8 @@ Here are some ideas to get you started:
 - [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/829182.Computer_Systems)
 - [The Opportunity Analysis Canvas](https://www.goodreads.com/book/show/122033040-the-opportunity-analysis-canvas)
 - [Solving Identity Management in Modern Applications](https://www.goodreads.com/book/show/49950389-solving-identity-management-in-modern-applications)
-- [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design)
 - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+- [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design)
 
 ## Experienced Tech Stacks
 
