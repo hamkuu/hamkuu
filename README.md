@@ -16,14 +16,10 @@ Here are some ideas to get you started:
 ## Most Active Expertise
 
 - Python 3.10, 3.11, 3.12
+- CPython
+- pytest 8
 - Django 4.2
 - Domain-driven Design
-
-## Recent Focuses
-
-- CPython
-- Vim
-- Piano
 
 ## Favorite Books Read ≥2 Times
 
