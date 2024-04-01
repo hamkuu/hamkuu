@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Python 3.10, 3.11, 3.12
 - CPython
-- pytest 8
+- pytest
 - Django 4.2
 - Domain-driven Design
 
