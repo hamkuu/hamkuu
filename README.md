@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Overview
+
+Hello, I am Hirokoma, a.k.a Haoju, a professional Python developer located in Tokyo. 
+
+I have been working on web development for seven years, specializing in Python for the past four years.
+
 ## Most Active Expertise
 
 - Python 3.10, 3.11, 3.12
