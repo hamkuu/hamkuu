@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hello, I am Hirokoma, a.k.a Haoju, a professional Python developer located in Tokyo. 
 
-I have been working on web development for seven years, specializing in Python for the past four years.
+I have been working on web development for seven years, specializing in Python since 2020.
 
 ## Most Active Expertise
 
