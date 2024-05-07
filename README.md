@@ -29,11 +29,11 @@ I have been working on web development for seven years, specializing in Python f
 
 ## Favorite Books Read ≥2 Times
 
-- [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/829182.Computer_Systems)
-- [The Opportunity Analysis Canvas](https://www.goodreads.com/book/show/122033040-the-opportunity-analysis-canvas)
-- [Solving Identity Management in Modern Applications](https://www.goodreads.com/book/show/49950389-solving-identity-management-in-modern-applications)
-- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
-- [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design)
+- [Computer Systems: A Programmer's Perspective](https://www.goodreads.com/book/show/829182.Computer_Systems) by Randal E. Bryant, David Richard O'Hallaron
+- [The Opportunity Analysis Canvas](https://www.goodreads.com/book/show/122033040-the-opportunity-analysis-canvas) by James V. Green
+- [Solving Identity Management in Modern Applications](https://www.goodreads.com/book/show/49950389-solving-identity-management-in-modern-applications) by Yvonne Wilson, Abhishek Hingnikar
+- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
+- [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by Vladik Khononov
 
 ## Experienced Tech Stacks
 
