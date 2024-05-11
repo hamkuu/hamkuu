@@ -22,11 +22,11 @@ I have been working on web development for seven years, specializing in Python s
 ## Most Active Expertise
 
 - Domain-driven Design
-- Python 3.10, 3.11, 3.12
 - CPython
+- Python 3.10, 3.11, 3.12
 - Django 4.2
-- FastAPI
-- pytest
+- FastAPI 0.111
+- pytest 8.2
 
 ## Favorite Books Read ≥2 Times
 
