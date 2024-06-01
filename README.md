@@ -23,7 +23,7 @@ I have been working on web development for seven years, specializing in Python s
 
 - Domain-driven Design
 - CPython
-- Python 3.10, 3.11, 3.12
+- Python 3.11, 3.12
 - Django 4.2
 - FastAPI 0.111
 - pytest 8.2
