@@ -39,8 +39,12 @@ I have been working on web development for seven years, specializing in Python s
 ## Experienced Tech Stacks
 
 - Languages: Python3, C++, SQL, Ruby
-- Framework/libraries: Django, GeoDjango, DRF, FastAPI, Pytest, Celery, React.js, React.js, Vue
+- Framework/libraries
+  + Backend: Django, GeoDjango, DRF, FastAPI, Pytest, Celery
+  + Frontend: Next.js, React.js, Vue 3
 - Data: Postgres, PostGIS, Kafka, Debezium
-- DevOps: Git, Docker, CI/CD (Jenkins, CircleCI, GitHub Actions)
+- DevOps
+  + Git, Docker, pre-commit
+  + CI/CD: Jenkins, CircleCI, GitHub Actions
 - Cloud Services: AWS, GCP
 - System Design: REST API, Distributed Architecture, OAuth2 & OIDC
