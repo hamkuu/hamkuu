@@ -40,7 +40,7 @@ I have been working on web development for seven years, specializing in Python s
 
 - Languages: Python3, C++, SQL, Ruby
 - Framework/libraries
-  + Backend: Django, GeoDjango, DRF, FastAPI, Pytest, Celery
+  + Backend: Django, GeoDjango, DRF, FastAPI, Pytest, Celery, django-allauth
   + Frontend: Next.js, React.js, Vue 3
 - Data: Postgres, PostGIS, Kafka, Debezium
 - DevOps
