@@ -27,6 +27,7 @@ I have been working on web development for seven years, specializing in Python s
 - Django 4.2
 - FastAPI 0.111
 - pytest 8.2
+- Vue 3.4
 
 ## Favorite Books Read ≥2 Times
 
