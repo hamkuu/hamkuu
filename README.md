@@ -22,7 +22,6 @@ I have been working on web development for seven years, specializing in Python s
 ## Most Active Expertise
 
 - Domain-driven Design
-- CPython
 - Python 3.11, 3.12
 - Django 4.2
 - FastAPI 0.111
