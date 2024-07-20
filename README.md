@@ -35,6 +35,7 @@ I have been working on web development for seven years, specializing in Python s
 - [Solving Identity Management in Modern Applications](https://www.goodreads.com/book/show/49950389-solving-identity-management-in-modern-applications) by Yvonne Wilson, Abhishek Hingnikar
 - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
 - [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by Vladik Khononov
+- [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
 
 ## Experienced Tech Stacks
 
