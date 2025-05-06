@@ -38,6 +38,7 @@ I have been working on web development for seven years, specializing in Python s
 - [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications) by Martin Kleppmann
 - [Learning Domain-Driven Design](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design) by Vladik Khononov
 - [A Philosophy of Software Design](https://www.goodreads.com/book/show/39996759-a-philosophy-of-software-design) by John Ousterhout
+- [Company Of One](https://www.goodreads.com/book/show/37570605-company-of-one)
 
 ## Experienced Tech Stacks
 
