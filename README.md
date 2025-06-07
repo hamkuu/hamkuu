@@ -23,7 +23,7 @@ I have been working on web development for seven years, specializing in Python s
 
 - Domain-driven Design
 - Python 3.11, 3.12, 3.13
-- Django 4.2
+- Django 4.2, 5.2
 - Django REST framework 3.15
 - FastAPI 0.111
 - FastHTML 0.2
