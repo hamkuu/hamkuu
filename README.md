@@ -7,14 +7,14 @@ I have been working on web development for seven years, specializing in Python s
 ## Most Active Expertise
 
 - Domain-driven Design
-- Python 3.11, 3.12, 3.13
+- Python 3.12, 3.13
 - Poetry, uv
 - Django 4.2, 5.2
-- Django REST framework 3.15
+- Django REST framework 3.16
 - FastAPI 0.111
-- FastHTML 0.2
+- FastHTML 0.12
 - pytest 8.2
-- Vue 3
+- Vue 3.5
 
 ## Favorite Books Read ≥2 Times
 
