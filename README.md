@@ -10,7 +10,7 @@ I have been working on web development for seven years, specializing in Python s
 - Python 3.12, 3.13
 - Poetry, uv
 - Django 4.2, 5.2
-- Django REST framework 3.16
+- Django REST framework 3.15, 3.16
 - FastAPI 0.111
 - FastHTML 0.12
 - pytest 8.2
