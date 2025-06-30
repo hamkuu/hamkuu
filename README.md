@@ -13,7 +13,7 @@ I have been working on web development for seven years, specializing in Python s
 - Django REST framework 3.15, 3.16
 - FastAPI 0.111
 - FastHTML 0.12
-- pytest 8.2
+- pytest 8.4
 - Vue 3.5
 - Terraform 1.12
 
