@@ -16,6 +16,7 @@ I have been working on web development for seven years, specializing in Python s
 - pytest 8.4
 - Vue 3.5
 - Terraform 1.12
+- Google Cloud Platform 
 
 ## Favorite Books Read ≥2 Times
 
