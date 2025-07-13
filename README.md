@@ -15,6 +15,7 @@ I have been working on web development for seven years, specializing in Python s
 - FastHTML 0.12
 - pytest 8.4
 - Vue 3.5
+- Astro 5.11
 - Terraform 1.12
 - Google Cloud Platform 
 
