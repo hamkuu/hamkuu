@@ -8,11 +8,10 @@ I have been working on web development for seven years, specializing in Python s
 
 - Domain-driven Design
 - Python 3.12, 3.13
-- uv 0.8
+- uv 0.9
 - Django 5.2
-- Django REST framework 3.15, 3.16
+- Django REST framework 3.16
 - FastAPI 0.117
-- FastHTML 0.12
 - pytest 8.4
 - Vue 3.5
 - Astro 5.11
