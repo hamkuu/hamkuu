@@ -7,7 +7,7 @@ I have been working on web development for seven years, specializing in Python s
 ## Most Active Expertise
 
 - Domain-driven Design
-- Python 3.12, 3.13
+- Python 3.12, 3.13, 3.14
 - uv 0.9
 - Django 5.2
 - Django REST framework 3.16
