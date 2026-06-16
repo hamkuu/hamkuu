@@ -8,7 +8,7 @@ I have been working on web development for seven years, specializing in Python s
 
 - Domain-driven Design
 - Python 3.12, 3.13, 3.14
-- uv 0.9
+- uv 0.11
 - Django 5.2
 - Django REST framework 3.16
 - FastAPI 0.117
